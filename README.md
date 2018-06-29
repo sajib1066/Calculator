@@ -1,9 +1,7 @@
 # Calculator
 Calculator Software by Java
 
-Hi,
-
-I am Sajib Hossain . I make a Calculator Software for Windows Desktop Platform .
+This is a Calculator Software for Windows Desktop Platform .
 
 Using : 
 
